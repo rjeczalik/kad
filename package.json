@@ -45,7 +45,7 @@
     "colors": "^1.0.3",
     "hat": "0.0.3",
     "kad-fs": "0.0.4",
-    "kad-localstorage": "0.0.7",
+    "kad-localstorage": "0.0.9",
     "kad-memstore": "rjeczalik/kad-memstore",
     "lodash": "^3.6.0",
     "merge": "^1.2.0",
